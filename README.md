@@ -9,4 +9,5 @@
 
 ## Usage
 
-* Create Issues for any matters :tada:
+* Use [this gitter room](https://gitter.im/hslu-students/Lobby) for short-living discussions
+* Create Issues for any matters
