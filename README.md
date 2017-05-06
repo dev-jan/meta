@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img alt="HSLU Students" src="https://raw.githubusercontent.com/hslu-students/meta/master/artwork/avatar_fit.png" align="center">
-</div>
+<p align="center">
+  <img alt="HSLU Students" src="https://raw.githubusercontent.com/hslu-students/meta/master/artwork/avatar_fit.png">
+</p>
 
 # meta
 
